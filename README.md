@@ -1,10 +1,5 @@
 # HackJos 2025 - Igniting MSME Growth Through Innovation
 
-![HackJos 2025 Banner](https://img.shields.io/badge/HackJos-2025-green?style=for-the-badge)
-![nHub 10 Years](https://img.shields.io/badge/nHub-10%20Years%20Anniversary-orange?style=for-the-badge)
-
-## Overview
-
 HackJos 2025 is a premier hackathon event organized by nHub Nigeria to celebrate 10 years of innovation and entrepreneurship. This repository contains essential documentation and resources for participating teams to build viable MVPs (Minimum Viable Products) that demonstrate **innovation**, **usability**, and **scalability**.
 
 ## Challenge Tracks
