@@ -96,7 +96,7 @@ Each team must submit:
 - 📊 2–3 slides summary (problem, solution, impact)
 - 👥 Team details and track selected
 
-**Submission Portal:** [https://www.hackjos.com.ng/hackathon-submission](https://www.hackjos.com.ng/hackathon-onboarding)
+**Submission Portal:** [https://www.hackjos.com.ng/hackathon-onboarding](https://www.hackjos.com.ng/hackathon-onboarding)
 
 ## Technology Stack Recommendations
 
